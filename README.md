@@ -19,8 +19,7 @@ media theorists, literary scholars, and computer scientists including
 Alexander Galloway, Sharon Marcus, Caroline Levine, Kathleen McKeown, Donald
 Knuth, Alan Liu, Marjorie Levinson, Franco Moretti, and Johanna Drucker.
 
-Throughout the course we will explore the fundamental tension in the very idea
-of form
+At stake  Finally, format.
 
 ## Course Requirements and Grading
 
@@ -38,7 +37,7 @@ The syllabus will be continually updated to match the pace of the course at:
 
 Introduction. Structure of the course. Policies, grading, requirements.
 
-### Week 2
+### Week 2: Ideal
 
 Readings from Plato's [*Timaeus*][21] and [*Phaedrus*][22].
 
@@ -48,7 +47,7 @@ Perseus critical edition for Greek originals.
 [21]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0180%3Atext%3DTim.
 [22]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Asection%3D227a
 
-### Week 3
+### Week 3: Concrete Universal
 
 - Hegel, G. W. F. “[The Philosophy of Plato][31].” *The Journal of Speculative
 Philosophy* 4, no. 3 (January 1, 1870): 225–68. 
@@ -59,46 +58,63 @@ Press, 1998.
 
 [31]: http://www.jstor.org/stable/25665723
 
-### Week 4
+### Week 4: Play
 
 Germans.
 
-### Week 5
-Russians.
-
-### Week 6
+### Week 5: Sound Shape
 
 Russians.
 
-### Week 7
+### Week 6: Formula
 
+Russians.
+
+### Week 7: Structure
+
+Mihkail Bakhtin, The Formal Method in Literary Scholarship
 French.
 
-### Week 8
+### Week 8: Material
 
 - Trotsky, Leon, transl. Rose Strunsky. “[The Formalist School of Poetry and
   Marxism][8].” In *Literature and Revolution*. New York: International
 Publishers;, 1925.
 
+- Louis Althusser, Letter on Art
+
 - Selections from Jameson, Fredric. *The Political Unconscious: Narrative as a
   Socially Symbolic Act*. Ithaca, N.Y.: Cornell University Press, 1981.
 
-
 [8]: https://www.marxists.org/archive/trotsky/1924/lit_revo/ch05.htm
 
-### Week 9
+### Week 9: Pattern
 
-### Week 10
+Moretti. Propp.
+  Claude Levi Strauss, “The Structural Study of Myth”
 
-### Week 11
+### Week 10: Affordance
+
+Levine "affordances of form". Galloway
+
+### Week 11: Format Theory
+
+- Tanselle, G. Thomas. “The Concept of Format.” *Studies in Bibliography* 53
+  (2000): 67–115.
+
+- Sterne, Jonathan. “Format Theory.” In MP3: The Meaning of a Format, 1–31.
+  Durham: Duke University Press, 2012.
 
 FORMAT. EDIT.
 
-### Week 12
+### Week 12: Plain Text
 
-Plain Text
+- Ch. 7 & 8 in Bringhurst, Robert. "The Elements of Typographic Style". Point
+  Roberts, WA: Hartley & Marks, Publishers, 2004.
 
-### Week 13
+- Plain Text
+
+### Week 13: Depth and Surface
 
 Surface Reading.
 PDF spec. DOCX spec. Levine.
