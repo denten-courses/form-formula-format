@@ -58,9 +58,11 @@ Press, 1998.
 
 [31]: http://www.jstor.org/stable/25665723
 
-### Week 4: Play
+### Week 4: Neoclassicism
 
-Germans.
+- Ch. II "Form and Appearance" and Ch. VI "Form as Interpretation of Life" in
+Hildebrand, Adolf von, Max F Meyer, and Robert Morris Ogden. The Problem of
+Form in Painting and Sculpture,. New York: G.E. Stechert & Co., 1907.
 
 ### Week 5: Sound Shape
 
@@ -68,7 +70,9 @@ Russians.
 
 ### Week 6: Formula
 
-Russians.
+- Ch.5 "Formula and Experience" in Gombrich, E. H. *Art and Illusion: A Study
+  in the Psychology of Pictorial Representation". New York: Pantheon Books,
+1960.
 
 ### Week 7: Structure
 
@@ -118,3 +122,12 @@ FORMAT. EDIT.
 
 Surface Reading.
 PDF spec. DOCX spec. Levine.
+### Week 14: Simulation
+
+- Baudrillard, Jean. “Symbolic Exchange and Death.” In Selected Writings,
+  translated by Mark Poster, 119–47. Stanford, Calif.: Stanford University
+Press, 1988.
+- Ch. 1 "Alan Kay's Universal Media Machine" in Manovich, Lev. *Software Takes
+  Command*. New York: Bloomsbury Academic, 2013.
+
+- Metaphor Machines
