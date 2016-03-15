@@ -9,7 +9,7 @@ email: dt2406@columbia.edu
 
 ## Course Description
 
-In this graduate seminar we will cover the major literary, philosophical, and
+In this seminar we will cover the major literary, philosophical, and
 theoretical texts related to the long history of formalism. Canonical texts in
 aesthetic theory from Plato, Hegel, Hans-Georg Gadamer, Viktor Shklovsky,
 Roman Jakobson, Leon Trotsky, Percy Lubbock, W.M. Wimsatt, Renee Wellek,
@@ -19,15 +19,55 @@ media theorists, literary scholars, and computer scientists including
 Alexander Galloway, Sharon Marcus, Caroline Levine, Kathleen McKeown, Donald
 Knuth, Alan Liu, Marjorie Levinson, Franco Moretti, and Johanna Drucker.
 
-At stake  Finally, format.
+Two rich intellectual histories will collide in these readings: one, the
+intellectual history of form in literary theory and the other, the material
+history of formats as a concept in textual criticism, book history, and
+software design. Format will emerge as a concept that mediates between form
+understood as internal "rules for construction" and form understood as
+"external shape." The formatting layer transforms one type of structure, a
+series of bits arranged into tracks and sectors, into another, letters
+arranged into sentences and paragraphs. We will draw a history of text formats
+that commences with several "control characters" limited in function to
+actions like "carriage return" or "stop transmission." With time, the
+formatting layer will encompass all manner of machine instruction, including
+structures of governance like "digital rights management" and "copy
+protection." A manufacturer's ability to censor or to surveil electronic books
+is contained within the formatting layer. The concept of formatting developed
+in this course is critical therefore to our understanding the capabilities of
+digital texts: from electronic books that modify themselves to suit the
+reader's geographic location, gender, or socio-economic status to "smart"
+contracts that contain the rules of their own execution.
 
 ## Course Requirements and Grading
 
+Students will be expected to read the approximate equivalent of three
+scholarly articles per week, to attend the seminar weekly, to participate in
+the class discussion both in person and online, and to develop a research
+project that will culminate in a paper. Advanced students will have the option
+to integrate the course's themes with the subject matter of their expertise.
+
++------------------------------------------+------+
+| Class participation                      | 25%  |
++------------------------------------------+------+
+| Informal weekly response online forum    | 25%  |
++------------------------------------------+------+
+| Midterm project proposal                 | 20%  |
++------------------------------------------+------+
+| Final paper                              | 30%  |
++------------------------------------------+------+
+
 ## University Policies
+
+When in doubt, cite! Plagiarism is insulting to your fellow students, your
+instructors, and to the research community at large. It wastes my time and
+yours, and is, ultimately, not worth the risk. Consult Culumbia’s guidelines
+at <http://www.college.columbia.edu/academics/integrity> or ask me for help
+early in the writing process.
 
 ## Resources
 
-The syllabus will be continually updated to match the pace of the course at: 
+The syllabus will be continually updated to match the pace of the course at:
+<https://github.com/denten-courses/form-formula-format>
 
 ## Provisional Schedule
 
