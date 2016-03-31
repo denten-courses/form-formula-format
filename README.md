@@ -7,21 +7,14 @@ instructor: Dennis Tenen
 email: dt2406@columbia.edu
 ---
 
-+---------------------------+---------------------------+
 | Semester:                 | Fall 2016                 |
-+---------------------------+---------------------------+
+|---------------------------|---------------------------|
 | Title:                    | Topics in Literary Theory |
-+---------------------------+---------------------------+
 | Theme:                    | Form, Formula, Format     |
-+---------------------------+---------------------------+
 | Course Number:            |  CLEN 6xxx                |
-+---------------------------+---------------------------+
 | Instructor:               | Dennis Tenen              |
-+---------------------------+---------------------------+
 | Contact:                  | dt2406@columbia.edu       |
-+---------------------------+---------------------------+
 | Office Hours:             | TBA                       |
-+---------------------------+---------------------------+
 
 ## Course Description
 
@@ -68,15 +61,11 @@ the class discussion both in person and online, and to develop a research
 project that will culminate in a paper. Advanced students will have the option
 to integrate the course's themes with the subject matter of their expertise.
 
-+------------------------------------------+------+
 | Class participation                      | 25%  |
-+------------------------------------------+------+
+|------------------------------------------|------|
 | Informal weekly response online forum    | 25%  |
-+------------------------------------------+------+
 | Midterm project proposal                 | 20%  |
-+------------------------------------------+------+
 | Final paper                              | 30%  |
-+------------------------------------------+------+
 
 ## University Policies
 
