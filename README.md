@@ -124,7 +124,7 @@ Press, 1998.
 
 - Translated selections form Shklovksy, Viktor, Osip Brik, Yevgeny Polovanov,
   Boris Eichenbaum, and Lev Yakubinsky. *Poetika*. Petrograd: State Typography
-#18, 1919.
+\#18, 1919.
 
 - Eichenbaum, Boris. “How Gogol’s ‘Overcoat’ Is Made.” In *Gogol from the
   Twentieth Century: Eleven Essays*, edited by Robert A. Maguire, 267–92.
