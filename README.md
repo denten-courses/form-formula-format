@@ -99,8 +99,8 @@ Perseus critical edition for Greek originals.
 ### Week 3: Shape
 
 - Ch. II "Form and Appearance" and Ch. VI "Form as Interpretation of Life" in
-Hildebrand, Adolf von, Max F Meyer, and Robert Morris Ogden. The Problem of
-Form in Painting and Sculpture,. New York: G.E. Stechert & Co., 1907.
+Hildebrand, Adolf von, Max F Meyer, and Robert Morris Ogden. [*The Problem of
+Form in Painting and Sculpture*](https://archive.org/details/problemforminpa00ogdegoog). New York: G.E. Stechert & Co., 1907.
 
 - Part I from Herder, Johann Gottfried, and Jason Gaiger. [*Sculpture: Some
   Observations on Shape and Form from Pygmalion’s Creative Dream*](http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10468505). Chicago:
