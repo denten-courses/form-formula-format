@@ -105,9 +105,9 @@ Form in Painting and Sculpture,. New York: G.E. Stechert & Co., 1907.
 - Selections from Lessing, Gotthold Ephraim, and Robert Phillimore. *Laocoon*.
   London: Macmillan, 1874.
 
-- Selections from Herder, Johann Gottfried, and Jason Gaiger. *Sculpture: Some
-  Observations on Shape and Form from Pygmalion’s Creative Dream*. Chicago:
-University of Chicago Press, 2002. http://site.ebrary.com/id/10468505.
+- Part I from Herder, Johann Gottfried, and Jason Gaiger. [*Sculpture: Some
+  Observations on Shape and Form from Pygmalion’s Creative Dream*](http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10468505). Chicago:
+University of Chicago Press, 2002.
 
 ### Week 4: Concrete Universal
 
