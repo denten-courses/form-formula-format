@@ -102,12 +102,13 @@ Perseus critical edition for Greek originals.
 Hildebrand, Adolf von, Max F Meyer, and Robert Morris Ogden. The Problem of
 Form in Painting and Sculpture,. New York: G.E. Stechert & Co., 1907.
 
-- Selections from Lessing, Gotthold Ephraim, and Robert Phillimore. *Laocoon*.
-  London: Macmillan, 1874.
-
 - Part I from Herder, Johann Gottfried, and Jason Gaiger. [*Sculpture: Some
   Observations on Shape and Form from Pygmalion’s Creative Dream*](http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10468505). Chicago:
 University of Chicago Press, 2002.
+
+- Sections 15-16 from Lessing, Gotthold Ephraim, and Robert Phillimore. [*Laocoon*](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/lessig.pdf).
+  London: Macmillan, 1874.
+
 
 ### Week 4: Concrete Universal
 
