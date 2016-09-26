@@ -115,8 +115,12 @@ University of Chicago Press, 2002.
 - Hegel, G. W. F. “[The Philosophy of Plato][31].” *The Journal of Speculative
 Philosophy* 4, no. 3 (January 1, 1870): 225–68. 
 
-- Vol I, Section III, Introduction in Hegel's *Aesthetics: Lectures on Fine Art*.
+- Vol I, Part II "Development of the Ideal into Particular Forms of Art," Introduction & Section I "The Symbolic Form of Art" "Introduction: The Symbol in General." Pages 299-322 in the [linked edition](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/hegel-aesthetics-1.pdf).
+
+- Vol I, Part II, Section III "The Romantic Form of Art," "Introduction" in Hegel's *Aesthetics: Lectures on Fine Art*.
  Pages 517-530 in the [linked edition](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/hegel-aesthetics-1.pdf). 
+ 
+
 
 [31]: http://www.jstor.org/stable/25665723
 
