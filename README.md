@@ -126,9 +126,7 @@ Philosophy* 4, no. 3 (January 1, 1870): 225–68.
 
 ### Week 5: Construction
 
-- Translated selections form Shklovksy, Viktor, Osip Brik, Yevgeny Polovanov,
-  Boris Eichenbaum, and Lev Yakubinsky. *Poetika*. Petrograd: State Typography
-\#18, 1919.
+- "Art as Device" and "The Relationship between Devices of Plot Construction and General Devices of Style" in Viktor Shklovsky's [*Theory of Prose*](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/shklovsky%20art%20as%20device.pdf). Normal, IL: Dalkey Archive Press: 1-51.
 
 - Eichenbaum, Boris. “How Gogol’s ‘Overcoat’ Is Made.” In *Gogol from the
   Twentieth Century: Eleven Essays*, edited by Robert A. Maguire, 267–92.
