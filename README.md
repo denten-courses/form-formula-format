@@ -126,17 +126,17 @@ Philosophy* 4, no. 3 (January 1, 1870): 225–68.
 
 ### Week 5: Construction
 
-- "Art as Device" and "The Relationship between Devices of Plot Construction and General Devices of Style" in Viktor Shklovsky's [*Theory of Prose*](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/shklovsky%20art%20as%20device.pdf). Normal, IL: Dalkey Archive Press: 1-51.
+- "Art as Device" in Viktor Shklovsky's [*Theory of Prose*](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/shklovsky%20art%20as%20device.pdf). Normal, IL: Dalkey Archive Press: 1-14.
 
 - Eichenbaum, Boris. “[How Gogol’s ‘Overcoat’ Is Made](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/Eichenbaum%20-%20How%20Gogol_s%20_Overcoat_%20is%20Made.pdf).” In *Gogol from the
   Twentieth Century: Eleven Essays*, edited by Robert A. Maguire, 267–92.
 Princeton University Press, 1995.
 
-- Jakobson, Roman. “Linguistics and Poetics.” In *Style in Language*, edited
+- Jakobson, Roman. “[Linguistics and Poetics](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/jakobson-ling-poetics.pdf).” In *Style in Language*, edited
   by Thomas A Sebeok, 350–77. [Cambridge: Technology Press of Massachusetts
 Institute of Technology, 1960.
 
-- Selections from Lubbock, Percy. *The Craft of Fiction*. New York: C.
+- Chapters I-II (pp. 1-25) and XVIII (pp. 265-74) from Lubbock, Percy. *[The Craft of Fiction](https://archive.org/details/craftfiction01lubbgoog)*. New York: C.
   Scribner’s Sons, 1921.
 
 ### Week 6: Formula
