@@ -141,7 +141,7 @@ Institute of Technology, 1960.
 
 ### Week 6: Formula
 
-- Selections from Propp, V. Ia. *Morphology of the Folktale*. Austin:
+- Ch. I, II, III, IX from Propp, V. Ia. [*Morphology of the Folktale*](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/propp.pdf). Austin:
   University of Texas Press, 1968.
 
 - Ch.5 "Formula and Experience" in Gombrich, E. H. *Art and Illusion: A Study
