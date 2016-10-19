@@ -144,8 +144,8 @@ Institute of Technology, 1960.
 - Ch. I, II, III, IX from Propp, V. Ia. [*Morphology of the Folktale*](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/propp.pdf). Austin:
   University of Texas Press, 1968.
 
-- Ch.5 "Formula and Experience" in Gombrich, E. H. *Art and Illusion: A Study
-  in the Psychology of Pictorial Representation". New York: Pantheon Books,
+- Ch.5 "Formula and Experience" in Gombrich, E. H. [*Art and Illusion: A Study
+  in the Psychology of Pictorial Representation*](https://drive.google.com/file/d/0B4OAOue0b3VMRTZLbkpMT0haV0U/view?usp=sharing). New York: Pantheon Books,
 1960.
 
 - Selections from Wittgenstein, Ludwig. *Philosophical Investigations*. New
