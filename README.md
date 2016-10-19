@@ -119,8 +119,6 @@ Philosophy* 4, no. 3 (January 1, 1870): 225–68.
 
 - Vol I, Part II, Section III "The Romantic Form of Art," "Introduction" in Hegel's *Aesthetics: Lectures on Fine Art*.
  Pages 517-530 in the [linked edition](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/hegel-aesthetics-1.pdf). 
- 
-
 
 [31]: http://www.jstor.org/stable/25665723
 
@@ -147,22 +145,24 @@ Institute of Technology, 1960.
 - Ch.5 "Formula and Experience" in Gombrich, E. H. [*Art and Illusion: A Study
   in the Psychology of Pictorial Representation*](https://drive.google.com/file/d/0B4OAOue0b3VMRTZLbkpMT0haV0U/view?usp=sharing). New York: Pantheon Books,
 1960.
+  
+- Lévi-Strauss, Claude. “[The Structural Study of Myth](http://www.jstor.org/stable/536768?seq=1#page_scan_tab_contents).” *The Journal of
+   American Folklore* 68, no. 270 (1955): 428–44.
+   
+
+
+
+
+### Week 7: Machine
 
 - Selections from Wittgenstein, Ludwig. *Philosophical Investigations*. New
   York: Macmillan, 1953.
+  
+
 
 - Chomsky, Noam. “On the Notion ‘Rule of Grammar.’” In *Structure of Language
   and Its Mathematical Aspects*, edited by Roman Jakobson, 6–25. American
 Mathematical Soc., 1961.
-
-### Week 7: Structure
-
-- "Forms of Time and of the Chronotope in the Novel" in Bakhtin, M. M, and
-  Michael Holquist. *The dialogic imagination: four essays*. Austin:
-University of Texas Press, 1981.
-
--  Lévi-Strauss, Claude. “The Structural Study of Myth.” *The Journal of
-   American Folklore* 68, no. 270 (1955): 428–44.
 
 - Barthes, Roland. “From Work to Text.” In Image-Music-Text, translated by
   Stephen Heath, 155–65. New York: Hill and Wang, 1978.
@@ -189,6 +189,10 @@ Press, 1972.
 
 - Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for a Literary
   History*. London; New York: Verso, 2005.
+  
+- "Forms of Time and of the Chronotope in the Novel" in Bakhtin, M. M, and
+  Michael Holquist. *The dialogic imagination: four essays*. Austin:
+University of Texas Press, 1981.
 
 - Selections from Jockers, Matthew L. *Macroanalysis: Digital Methods and
   Literary History*. Urbana: University of Illinois Press, 2013.
