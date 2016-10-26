@@ -149,23 +149,13 @@ Institute of Technology, 1960.
 - Lévi-Strauss, Claude. “[The Structural Study of Myth](http://www.jstor.org/stable/536768?seq=1#page_scan_tab_contents).” *The Journal of
    American Folklore* 68, no. 270 (1955): 428–44.
    
-
-
-
-
 ### Week 7: Machine
 
-- Selections from Wittgenstein, Ludwig. *Philosophical Investigations*. New
-  York: Macmillan, 1953.
+- Wittgenstein, Ludwig. *The Blue and Brown Books*. First Paperback Edition. New York: Harper Torchbooks, 1965. Pages 1-17, 45-50, 117-125. Please read selectively around these passages as well. You will have to procure your own copy. The epub is [here](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/The_Blue_and_Brown_Books.epub) (needs a special viewer). The originals are [here for Blue](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061817932.pdf) and [here for Brown](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061817940.pdf), but you will have to correlate the page numbers with the assigned.
+
+- Wittgenstein, Ludwig, and G. E. M Anscombe. *Philosophical Investigations: The German Text, with a Revised English Translation*. Oxford; Malden, Mass.: Blackwell, 2001. Pages 
   
-
-
-- Chomsky, Noam. “On the Notion ‘Rule of Grammar.’” In *Structure of Language
-  and Its Mathematical Aspects*, edited by Roman Jakobson, 6–25. American
-Mathematical Soc., 1961.
-
-- Barthes, Roland. “From Work to Text.” In Image-Music-Text, translated by
-  Stephen Heath, 155–65. New York: Hill and Wang, 1978.
+- Turing, A. M. “[On Computable Numbers, with an Application to the Entscheidungsproblem](https://people.cs.umass.edu/~immerman/cs601/TuringPaper1936.pdf).” *Proceedings of the London Mathematical Society* s2-42, no. 1 (January 1, 1937): 230–65.
 
 ### Week 8: Matter
 
