@@ -151,7 +151,7 @@ Institute of Technology, 1960.
    
 ### Week 7: Machine
 
-- Wittgenstein, Ludwig. *The Blue and Brown Books*. First Paperback Edition. New York: Harper Torchbooks, 1965. Pages 1-17, 45-50, 117-125. Please read selectively around these passages as well. You will have to procure your own copy. The epub is [here](https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/The_Blue_and_Brown_Books.epub) (needs a special viewer). The originals are [here for Blue](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061817932.pdf) and [here for Brown](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061817940.pdf), but you will have to correlate the page numbers with the assigned.
+- Wittgenstein, Ludwig. *The Blue and Brown Books*. First Paperback Edition. New York: Harper Torchbooks, 1965. Pages 1-17, 45-50, 117-125. Please read selectively around these passages as well. On reserve at the [Edward Said Reading Rm, 616 Butler](https://clio.columbia.edu/catalog/8386379?counter=4). The originals are [here for Blue](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061817932.pdf) and [here for Brown](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061817940.pdf), but you will have to correlate the page numbers with the assigned.
 
 - Wittgenstein, Ludwig. *Philosophical Grammar*. Edited by Rush Rhees. Berkeley: University of California Press, 1974. Pages 5, 10, 41-45, 69-70, 187-190, 197. Expand on the selections as needed. I will send a link to the .pdf, but the book is also widely available from the library.
   
