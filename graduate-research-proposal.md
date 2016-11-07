@@ -1,4 +1,4 @@
-## Midterm Research Proposal
+## Midterm Research Proposal Guidelines
 CLEN 6537: Form, Formula, Format  
 Fall 2016, w/ Prof. Dennis Tenen  
 
