@@ -2,7 +2,9 @@
 CLEN 6537: Form, Formula, Format  
 Fall 2016, w/ Prof. Dennis Tenen  
 
-!!! Due: Nov 18th  
+!!! Due: Nov 18th. Please submit to the appropriate "[Assignments][11]" folder on Columbia Courseworks.
+
+[11]: https://courseworks.columbia.edu/portal/site/CLENG6537_001_2016_3/page/5139d3cc-7c1c-4382-9802-5473909e42f7
 
 The midterm research proposal articulates your plans for the final paper. It
 should answer clearly the What, the Why, and the How of your project. A
