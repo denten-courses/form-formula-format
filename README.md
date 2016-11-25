@@ -160,20 +160,17 @@ Institute of Technology, 1960.
 ### Week 8: Matter
 
 - Trotsky, Leon, transl. Rose Strunsky. “[The Formalist School of Poetry and
-  Marxism][8].” In *Literature and Revolution*. New York: International
-Publishers;, 1925.
+  Marxism][80].” In *Literature and Revolution*. New York: International Publishers, 1925.
 
-- "Letter on Art" in Althusser, Louis, and Ben Brewster. *Lenin and
+- "Towards Dialectical Criticism" in Jameson, Fredric. [*Marxism and Form: Twentieth-Century
+  Dialectical Theories of Literature*][82]. Princeton, N.J.: Princeton University Press, 1972.
+
+- "[Letter on Art][81]" in Althusser, Louis, and Ben Brewster. *Lenin and
   philosophy, and other essays*, 2001.
 
-- Selections from Jameson, Fredric. *The Political Unconscious: Narrative as a
-  Socially Symbolic Act*. Ithaca, N.Y.: Cornell University Press, 1981.
-
-- Selections from Jameson, Fredric. *Marxism and Form: Twentieth-Century
-  Dialectical Theories of Literature*. Princeton, N.J.: Princeton University
-Press, 1972.
-
-[8]: https://www.marxists.org/archive/trotsky/1924/lit_revo/ch05.htm
+[80]: https://www.marxists.org/archive/trotsky/1924/lit_revo/ch05.htm
+[81]: http://www.marx2mao.com/Other/LPOE70ii.html#s7
+[82]: https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/Fredric_Jameson_Marxism_and_Form.pdf
 
 ### Week 9: Pattern
 
@@ -181,8 +178,7 @@ Press, 1972.
   History*. London; New York: Verso, 2005.
   
 - "Forms of Time and of the Chronotope in the Novel" in Bakhtin, M. M, and
-  Michael Holquist. *The dialogic imagination: four essays*. Austin:
-University of Texas Press, 1981.
+  Michael Holquist. *The dialogic imagination: four essays*. Austin: University of Texas Press, 1981.
 
 - Selections from Jockers, Matthew L. *Macroanalysis: Digital Methods and
   Literary History*. Urbana: University of Illinois Press, 2013.
@@ -213,8 +209,8 @@ University of Texas Press, 1981.
   Writing and Speech* 11, no. 2 (August 1968): 85–91.
 
 - Kimura, Gary D., and Alan C. Shaw. "The Structure of Abstract Document
-  Objects." In *Proceedings of the Second ACM-SIGOA Conference on Office
-Information Systems*, 161–69. COCS ’84. New York, NY, USA: ACM, 1984.
+  Objects." In *Proceedings of the Second ACM-SIGOA Conference on Office Information Systems*, 
+  161–69. COCS ’84. New York, NY, USA: ACM, 1984.
 
 ### Week 12: Text
 
