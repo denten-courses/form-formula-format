@@ -172,7 +172,7 @@ Institute of Technology, 1960.
 [81]: http://www.marx2mao.com/Other/LPOE70ii.html#s7
 [82]: https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/Fredric_Jameson_Marxism_and_Form.pdf
 
-### Week 9: Pattern
+~### Week 9: Pattern
 
 - Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for a Literary
   History*. London; New York: Verso, 2005.
@@ -184,7 +184,7 @@ Institute of Technology, 1960.
   Literary History*. Urbana: University of Illinois Press, 2013.
 
 - Helfman, Jonathan. “Dotplot Patterns: A Literal Look at Pattern Languages.”
-  *Theory and Practice of Object Systems* 2, no. 1 (January 1, 1996): 31–41.
+  *Theory and Practice of Object Systems* 2, no. 1 (January 1, 1996): 31–41.~
 
 ### Week 10: Affordance
 
