@@ -172,19 +172,19 @@ Institute of Technology, 1960.
 [81]: http://www.marx2mao.com/Other/LPOE70ii.html#s7
 [82]: https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/Fredric_Jameson_Marxism_and_Form.pdf
 
-~### Week 9: Pattern~
+~~### Week 9: Pattern~~
 
-- Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for a Literary
-  History*. London; New York: Verso, 2005.
+- ~~Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for a Literary
+  History*. London; New York: Verso, 2005.~~
   
-- "Forms of Time and of the Chronotope in the Novel" in Bakhtin, M. M, and
-  Michael Holquist. *The dialogic imagination: four essays*. Austin: University of Texas Press, 1981.
+- ~~"Forms of Time and of the Chronotope in the Novel" in Bakhtin, M. M, and
+  Michael Holquist. *The dialogic imagination: four essays*. Austin: University of Texas Press, 1981.~~
 
-- Selections from Jockers, Matthew L. *Macroanalysis: Digital Methods and
-  Literary History*. Urbana: University of Illinois Press, 2013.
+- ~~Selections from Jockers, Matthew L. *Macroanalysis: Digital Methods and
+  Literary History*. Urbana: University of Illinois Press, 2013.~~
 
-- Helfman, Jonathan. “Dotplot Patterns: A Literal Look at Pattern Languages.”
-  *Theory and Practice of Object Systems* 2, no. 1 (January 1, 1996): 31–41.~
+- ~~Helfman, Jonathan. “Dotplot Patterns: A Literal Look at Pattern Languages.”
+  *Theory and Practice of Object Systems* 2, no. 1 (January 1, 1996): 31–41.~~
 
 ### Week 10: Affordance
 
@@ -214,14 +214,13 @@ Institute of Technology, 1960.
 
 ### Week 12: Text
 
-- Ch. 7 & 8 in Bringhurst, Robert. "The Elements of Typographic Style". Point
-  Roberts, WA: Hartley & Marks, Publishers, 2004.
+- ~~Ch. 7 & 8 in Bringhurst, Robert. "The Elements of Typographic Style". Point
+  Roberts, WA: Hartley & Marks, Publishers, 2004.~~
 
--  King, James C. “A Format Design Case Study: PDF.” In *Proceedings of the
-   Fifteenth ACM Conference on Hypertext and Hypermedia*, 95–97. HYPERTEXT
-’04.  New York, NY, USA: ACM, 2004.
+-  ~~King, James C. “A Format Design Case Study: PDF.” In *Proceedings of the
+   Fifteenth ACM Conference on Hypertext and Hypermedia*, 95–97. HYPERTEXT ’04.  New York, NY, USA: ACM, 2004.~~
 
-- “Unicode 1.0.0,” n.d. http://www.unicode.org/versions/Unicode1.0.0/.
+- ~~“Unicode 1.0.0,” n.d. http://www.unicode.org/versions/Unicode1.0.0/.~~
 
 - Selections from Drucker, Johanna. “Digital Ontologies: The Ideality of Form
   In/and Code Storage: Or: Can Graphesis Challenge Mathesis?” *Leonardo* 34,
@@ -243,12 +242,12 @@ no. 2 (January 1, 2001): 141–45.
 
 ### Week 14: Code
 
-- Baudrillard, Jean. "Symbolic Exchange and Death." In *Selected Writings*,
-  translated by Mark Poster, 119–47. Stanford, Calif.: Stanford University
+- ~~Baudrillard, Jean. "Symbolic Exchange and Death." In *Selected Writings*,
+  translated by Mark Poster, 119–47. Stanford, Calif.: Stanford University~~
 Press, 1988.
 
-- Ch. 1 "Alan Kay's Universal Media Machine" in Manovich, Lev. *Software Takes
-  Command*. New York: Bloomsbury Academic, 2013.
+- ~~Ch. 1 "Alan Kay's Universal Media Machine" in Manovich, Lev. *Software Takes
+  Command*. New York: Bloomsbury Academic, 2013.~~
 
-- McKeown, Kathleen. *Text Generation*. Cambridge University Press, 1992.
+- ~~McKeown, Kathleen. *Text Generation*. Cambridge University Press, 1992.~~
 
