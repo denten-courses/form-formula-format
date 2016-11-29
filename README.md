@@ -188,18 +188,23 @@ Institute of Technology, 1960.
 
 ### Week 10: Format
 
-- Tanselle, G. Thomas. “The Concept of Format.” *Studies in Bibliography* 53
+- Tanselle, G. Thomas. “[The Concept of Format][101].” *Studies in Bibliography* 53
   (2000): 67–115.
 
-- Sterne, Jonathan. “Format Theory.” In MP3: The Meaning of a Format, 1–31.
-  Durham: Duke University Press, 2012.
+- Sterne, Jonathan. “[Format Theory][102].” In MP3: The Meaning of a Format, 1–31.
+  Durham: Duke University Press, 2012. (Go to Files & Resources in Courseworks if the link is not working for you.)
 
-- Berns, Gerald M. “The Format Program.” *IEEE Transactions on Engineering
+- Berns, Gerald M. “[The Format Program][103].” *IEEE Transactions on Engineering
   Writing and Speech* 11, no. 2 (August 1968): 85–91.
 
-- Kimura, Gary D., and Alan C. Shaw. "The Structure of Abstract Document
-  Objects." In *Proceedings of the Second ACM-SIGOA Conference on Office Information Systems*, 
+- Kimura, Gary D., and Alan C. Shaw. "[The Structure of Abstract Document
+  Objects][104]." In *Proceedings of the Second ACM-SIGOA Conference on Office Information Systems*, 
   161–69. COCS ’84. New York, NY, USA: ACM, 1984.
+  
+  [101]: www.jstor.org/stable/40372094?seq=1
+  [102]: https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/Jonathan_Sterne_MP3_The_Meaning_of_a_Format.pdf
+  [103]: http://ieeexplore.ieee.org.ezproxy.cul.columbia.edu/document/4322338/
+  [104]: http://dl.acm.org.ezproxy.cul.columbia.edu/citation.cfm?id=808344&CFID=698366533&CFTOKEN=70839543
 
 ### Week 11: Affordance
 
@@ -228,7 +233,7 @@ no. 2 (January 1, 2001): 141–45.
 
 ### Week 13: Depth and Surface
 
--  Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.”
+-  Best, Stephen, and Sharon Marcus. “[Surface Reading: An Introduction][131].”
    Representations 108, no. 1 (November 1, 2009): 1–21.
 
 - Selections from Levine, Caroline. *Forms: Whole, Rhythm, Hierarchy,
@@ -239,6 +244,8 @@ no. 2 (January 1, 2001): 141–45.
 
 - Selections from Knuth, Donald E. *Digital Typography*. Stanford, CA, USA:
   Center for the Study of Language and Information, 1999.
+  
+  [131]: www.jstor.org/stable/10.1525/rep.2009.108.1.1?seq=1
 
 ### Week 14: Code
 
