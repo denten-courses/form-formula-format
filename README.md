@@ -186,18 +186,7 @@ Institute of Technology, 1960.
 - ~~Helfman, Jonathan. “Dotplot Patterns: A Literal Look at Pattern Languages.”
   *Theory and Practice of Object Systems* 2, no. 1 (January 1, 1996): 31–41.~~
 
-### Week 10: Affordance
-
-- Selections from Galloway, Alexander R. *Protocol: How Control Exists after
-  Decentralization*. Cambridge, MA: The MIT Press, 2006.
-
-- Selections from Kirschenbaum, Matthew G. *Mechanisms: New Media and the
-  Forensic Imagination*. The MIT Press, 2008.
-
-- Hutchby, Ian. “Technologies, Texts and Affordances.” *Sociology* 35, no. 2
-  (2001): 441–56.
-
-### Week 11: Format
+### Week 10: Format
 
 - Tanselle, G. Thomas. “The Concept of Format.” *Studies in Bibliography* 53
   (2000): 67–115.
@@ -211,6 +200,17 @@ Institute of Technology, 1960.
 - Kimura, Gary D., and Alan C. Shaw. "The Structure of Abstract Document
   Objects." In *Proceedings of the Second ACM-SIGOA Conference on Office Information Systems*, 
   161–69. COCS ’84. New York, NY, USA: ACM, 1984.
+
+### Week 11: Affordance
+
+- Selections from Galloway, Alexander R. *Protocol: How Control Exists after
+  Decentralization*. Cambridge, MA: The MIT Press, 2006.
+
+- Selections from Kirschenbaum, Matthew G. *Mechanisms: New Media and the
+  Forensic Imagination*. The MIT Press, 2008.
+
+- Hutchby, Ian. “Technologies, Texts and Affordances.” *Sociology* 35, no. 2
+  (2001): 441–56.
 
 ### Week 12: Text
 
