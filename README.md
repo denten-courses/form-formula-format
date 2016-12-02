@@ -201,7 +201,7 @@ Institute of Technology, 1960.
   Objects][104]." In *Proceedings of the Second ACM-SIGOA Conference on Office Information Systems*, 
   161–69. COCS ’84. New York, NY, USA: ACM, 1984.
   
-  [101]: www.jstor.org/stable/40372094
+  [101]: https://www.jstor.org/stable/40372094
   [102]: https://courseworks.columbia.edu/access/content/group/CLENG6537_001_2016_3/Jonathan_Sterne_MP3_The_Meaning_of_a_Format.pdf
   [103]: http://ieeexplore.ieee.org.ezproxy.cul.columbia.edu/document/4322338/
   [104]: http://dl.acm.org.ezproxy.cul.columbia.edu/citation.cfm?id=808344&CFID=698366533&CFTOKEN=70839543
