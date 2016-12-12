@@ -245,7 +245,7 @@ no. 2 (January 1, 2001): 141–45.
 - Selections from Knuth, Donald E. *Digital Typography*. Stanford, CA, USA:
   Center for the Study of Language and Information, 1999.
   
-  [131]: www.jstor.org/stable/10.1525/rep.2009.108.1.1?seq=1
+  [131]: http://www.jstor.org/stable/10.1525/rep.2009.108.1.1?seq=1
 
 ### Week 14: Code
 
