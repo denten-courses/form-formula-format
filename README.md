@@ -208,14 +208,14 @@ Institute of Technology, 1960.
 
 ### Week 11: Affordance
 
-- Selections from Galloway, Alexander R. *Protocol: How Control Exists after
-  Decentralization*. Cambridge, MA: The MIT Press, 2006.
+- ~~Selections from Galloway, Alexander R. *Protocol: How Control Exists after
+  Decentralization*. Cambridge, MA: The MIT Press, 2006.~~
 
-- Selections from Kirschenbaum, Matthew G. *Mechanisms: New Media and the
-  Forensic Imagination*. The MIT Press, 2008.
+- ~~Selections from Kirschenbaum, Matthew G. *Mechanisms: New Media and the
+  Forensic Imagination*. The MIT Press, 2008.~~
 
-- Hutchby, Ian. “Technologies, Texts and Affordances.” *Sociology* 35, no. 2
-  (2001): 441–56.
+- ~~Hutchby, Ian. “Technologies, Texts and Affordances.” *Sociology* 35, no. 2
+  (2001): 441–56.~~
 
 ### Week 12: Text
 
@@ -227,9 +227,9 @@ Institute of Technology, 1960.
 
 - ~~“Unicode 1.0.0,” n.d. http://www.unicode.org/versions/Unicode1.0.0/.~~
 
-- Selections from Drucker, Johanna. “Digital Ontologies: The Ideality of Form
+- ~~Selections from Drucker, Johanna. “Digital Ontologies: The Ideality of Form
   In/and Code Storage: Or: Can Graphesis Challenge Mathesis?” *Leonardo* 34,
-no. 2 (January 1, 2001): 141–45.
+no. 2 (January 1, 2001): 141–45.~~
 
 ### Week 13: Depth and Surface
 
